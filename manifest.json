@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "RedditBegone",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Maximize your time wasted on Reddit by removing all the distractions.",
   "author": "TiredMan",
   "action": {
@@ -18,7 +18,7 @@
       "run_at": "document_idle"
     }
   ],
-  "permissions": ["scripting"],
+  "permissions": ["scripting", "activeTab"],
   "icons": {
     "48": "icons/icon.jpg"
   }

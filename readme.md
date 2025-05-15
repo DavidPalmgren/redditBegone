@@ -1,0 +1,1 @@
+Ever felt like promoted sections wastes your precious time wasting?
